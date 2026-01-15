@@ -43,7 +43,7 @@ Ensure you have Python installed. You will need the following libraries:
 Install the required dependencies using pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn faker
+pip install -r requirements.txt
 ```
 
 ## 💻 Usage
