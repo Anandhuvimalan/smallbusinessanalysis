@@ -62,6 +62,13 @@ Once the data is generated, run the analysis script. This will process the CSV f
 python analyze_data.py
 ```
 
+### 3. Run the Interactive Dashboard
+Launch the Streamlit web application to explore the data interactively with filters for date, store, and category.
+
+```bash
+streamlit run app.py
+```
+
 ## 📊 Sample Output (Executive Summary)
 
 When you run the analysis, you will see a summary similar to this in your console:
